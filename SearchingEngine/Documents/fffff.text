@@ -1,0 +1,15 @@
+1
+Statistical Analysis and Data Science / Emerging Technology in 
+Artificial Intelligence Spring 2024  
+Assignment 2 
+Given the auto-mpg dataset, apply the following tasks using Python: 1) Load the dataset from the csv file into a DataFrame. 2) Show the shape of the dataframe and the general information. 3) Replace the origin values from 1, 2, 3 to USA, Europe, Japan. 4) Convert the datatype of horsepower column to float and replace missing values 
+with the the mean value.  5) Display the distribution and density of both horsepower and mpg values. 6) Using  pairplot  method,  show  the  relation  between  mpg,  horsepower,  cylinders 
+and weight. 7) Using heatmap method, show the correlation between mpg, horsepower, 
+cylinders, origin and weight. 8) Using boxplot method, a) show the relation between mpg and origin. b) split the 
+plot  based  on  cylinders.  c)  split  the  plot  based  on  year  to  new  and  old  (new 
+>1980 )  
+Hint: you may benefit of python codes available on the following Github Channel: https://github.com/kimfetti/Videos/blob/master/Seaborn/12_pairplot.ipynb  Submission  should  be  done  on  Moodle,  You  should  submit  your  work  as  a  pdf  file  of 
+google colab notebook including the result of each step. Yor pdf file should be named as 
+Fname_Lname.pdf.  
+Submission Deadline is on Wednesday May 22nd at 11:59 pm. 
+ 
